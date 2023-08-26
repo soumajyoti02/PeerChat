@@ -1,6 +1,4 @@
 # MeetWave
-
-<<<<<<< HEAD
 Welcome to the MeetWave! This project allows you to create a virtual space for video conferencing with friends and colleagues. With a simple interface and powerful functionality, you can easily connect, chat, and collaborate using video and audio.
 
 ## Features
